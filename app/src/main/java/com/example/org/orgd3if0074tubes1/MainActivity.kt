@@ -8,18 +8,23 @@ import androidx.appcompat.app.AppCompatActivity
 
 
 class MainActivity : AppCompatActivity() {
+
     var p: EditText? = null
     var l: EditText? = null
     var hitung: Button? = null
     var hasil: TextView? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
         p = findViewById<View>(R.id.panjang) as EditText
         l = findViewById<View>(R.id.lebar) as EditText
         hitung = findViewById<View>(R.id.button) as Button
         hasil = findViewById<View>(R.id.txt_hasil) as TextView
-        hitung!!.setOnClickListener { //jika tidak mengisi panjang dan lebar sekaligus maka akan tampil notifikasi
+        hitung!!.setOnClickListener {
+            //jika tidak mengisi panjang dan lebar sekaligus maka akan tampil notifikasi
 
             if (p!!.length() == 0 && l!!.length() == 0) {
                 Toast.makeText(
