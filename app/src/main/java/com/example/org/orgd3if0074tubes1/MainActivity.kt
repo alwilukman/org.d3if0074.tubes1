@@ -14,6 +14,9 @@ class MainActivity : AppCompatActivity() {
     var hitung: Button? = null
     var hasil: TextView? = null
 
+
+
+    @Override
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
