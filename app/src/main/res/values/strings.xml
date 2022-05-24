@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">org.d3if0074.tubes1</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="lihat_about">about</string>
+    <string name="histori">Histori</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="judul">Aplikasi Menghitung  luas Persegi panjang , menyediakan input data:</string>
+    <string name="penjelasan">1.Input Panjang
+    2.Input Lebar
+    Dan kita akan menghitungnya dengan rumus luas persegi Panjang,
+    Di dalam aplikasi terdapat tombol Enter dimana fungsinya untuk mengeksekusi
+    inputan user dan akan keluar hasilnya, lalu ada 1lagi tombol switch untuk
+    megubah mode malam dan mode siang.</string>
 </resources>

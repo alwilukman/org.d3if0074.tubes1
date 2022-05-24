@@ -3,7 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/activity_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/about_fragment.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/fragment_history.xml" value="0.25277777777777777" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/hitung_fragment.xml" value="0.259375" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/layout/item_history.xml" value="0.25277777777777777" />
+        <entry key="..\:/Kuliah File/Sesmte6/mobpro1/orgd3if0074tubes1/app/src/main/res/menu/history_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/layout/about_fragment.xml" value="0.25885416666666666" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/layout/histori_fragment.xml" value="0.259375" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/layout/history_fragment.xml" value="1.0" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/layout/hitung_fragment.xml" value="0.264" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/menu/histori_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/Kuliah File/Sesmte6/orgd3if0074tubes1/app/src/main/res/menu/menu.xml" value="0.259375" />
       </map>
     </option>
   </component>
